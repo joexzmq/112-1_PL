@@ -28,4 +28,3 @@ print(data2)
 
 print("\n聯集：")
 print(data3)
-
