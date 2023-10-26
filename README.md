@@ -23,6 +23,16 @@
 >> * [Day11 - Python 如何處理 JSON](https://ithelp.ithome.com.tw/articles/10220160)
 >> * [Dictionaries](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
 >> * [jsoncrack](https://jsoncrack.com/editor)
+> ## Week6
+>> * [R-atique](https://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
+>> * [regexr](https://regexr.com/)
+> ## Week7
+>> * [Python網路爬蟲實例](https://blog.jiatool.com/series/python%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E5%AF%A6%E4%BE%8B/)
+>> * [GitHub - jwlin/ptt-web-crawler: PTT 網路版爬蟲](https://github.com/jwlin/ptt-web-crawler)
+>> * [GitHub - linhung0319/google-scholar-crawler: A crawler to crawl google scholar search page](https://github.com/linhung0319/google-scholar-crawler)
+> ## Week8
+>> * [資料彙整與資料視覺化](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)
+>> * [程式語言期末專題分組](https://docs.google.com/spreadsheets/d/1bv7opSXLVh6JsQoYODSlK24ccy1UMn6F3AcOFIRh58k/edit#gid=386118401)
 ## 作業連結區&#x1FAA7;
 > * [#作業一－HW1](https://github.com/joexzmq/112-1_PL/blob/main/1/HW1.ipynb)
 > * [#作業二－HW2](https://github.com/joexzmq/112-1_PL/blob/main/2/HW2.ipynb)
