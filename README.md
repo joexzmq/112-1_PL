@@ -15,7 +15,14 @@
 >> * [#練一－task1](https://github.com/joexzmq/112-1_PL/blob/main/1/0914_task1.ipynb)
 >> * [Python Tutorial](https://www.w3schools.com/python/)
 > ## Week3
->> * [](https://docs.google.com/spreadsheets/d/1pVWn4fH7Cocry_yJIWkxl8fcZA8PAZPaMyff_-h5Whg/edit#gid=505936307) 
+>> * [上學期繳交結果參考](https://docs.google.com/spreadsheets/d/1pVWn4fH7Cocry_yJIWkxl8fcZA8PAZPaMyff_-h5Whg/edit#gid=505936307)
+> ## Week4
+>> * [提三個問題回覆](https://docs.google.com/spreadsheets/d/1Je8OZt9zORZNyAuu5qQj9afQVqJ_rEcCNmNx51HHxNg/edit#gid=1822147429)
+> ## Week5
+>> * [Read JSON file using Python](https://www.geeksforgeeks.org/read-json-file-using-python/)
+>> * [Day11 - Python 如何處理 JSON](https://ithelp.ithome.com.tw/articles/10220160)
+>> * [Dictionaries](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
+>> * [jsoncrack](https://jsoncrack.com/editor)
 ## 作業連結區&#x1FAA7;
 > * [#作業一－HW1](https://github.com/joexzmq/112-1_PL/blob/main/1/HW1.ipynb)
 > * [#作業二－HW2](https://github.com/joexzmq/112-1_PL/blob/main/2/HW2.ipynb)
