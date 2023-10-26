@@ -7,7 +7,11 @@
 > ## Week1
 >> * [#練一－task1](https://github.com/joexzmq/112-1_PL/blob/main/1/0914_task1.ipynb)
 >> * [6 Charts That Explain Why the Machine Learning & AI Job Market is on Fire](https://opendatascience.com/6-charts-that-explain-why-the-machine-learning-ai-job-market-is-on-fire/)
->> * 
+>> * [科技大補帖](https://www.sancode.org.tw/activities_info.php?type=3&nid=101)
+>> * [為什麼需要學程式語言？](https://jamboard.google.com/d/1_K4ZmvsNh81J15C6rnygsGvFeWV1IWd3m6PcqQgp5Ys/edit?usp=sharing)
+>> * [迷你黑客松分組專題](https://www.youtube.com/playlist?list=PLH3VeiMX0ckgMa2uw4TF907vdkijywV9I)
+>> * [個人作業繳交方式參考](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUVpx6AeccKwedvZjINM5-mSLpmS0M69wrCIbDimIdwpN30xQpqcn0k5kh0oUQET05sEsMpFt6fsCA/pubhtml)
+>> * [Markdown 語法說明](https://markdown.tw/)
 ## 作業連結區&#x1FAA7;
 > * [#作業一－HW1](https://github.com/joexzmq/112-1_PL/blob/main/1/HW1.ipynb)
 > * [#作業二－HW2](https://github.com/joexzmq/112-1_PL/blob/main/2/HW2.ipynb)
