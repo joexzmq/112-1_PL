@@ -34,6 +34,7 @@
 >> * [資料彙整與資料視覺化](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)
 >> * [程式語言期末專題分組](https://docs.google.com/spreadsheets/d/1bv7opSXLVh6JsQoYODSlK24ccy1UMn6F3AcOFIRh58k/edit#gid=386118401)
 > ## Week9&10
+>> * [https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb#topic=0&lambda=0.67&term=](https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb#topic=0&lambda=0.67&term=)
 >> Python 文字資料視覺化工具參考
 >> * [WordCloud](https://github.com/amueller/word_cloud)
 >> * [TextBlob](https://github.com/sloria/TextBlob)
