@@ -42,7 +42,7 @@
 >> * [Termgraph](https://github.com/mkaz/termgraph)
 >> * [Glances](https://github.com/nicolargo/glances)
 >> * [ConsolePlot](https://github.com/pascaln/ConsolePlot)
->> * [https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb#topic=0&lambda=0.67&term=](https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb#topic=0&lambda=0.67&term=)
+>> * [https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb](https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb#topic=0&lambda=0.67&term=)
 ## 作業連結區&#x1FAA7;
 > * [#作業一－HW1](https://github.com/joexzmq/112-1_PL/blob/main/1/HW1.ipynb)
 > * [#作業二－HW2](https://github.com/joexzmq/112-1_PL/blob/main/2/HW2.ipynb)
