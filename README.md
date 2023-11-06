@@ -23,6 +23,7 @@
 >> * [Day11 - Python 如何處理 JSON](https://ithelp.ithome.com.tw/articles/10220160)
 >> * [Dictionaries](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
 >> * [jsoncrack](https://jsoncrack.com/editor)
+>> * [程式語言 GitHub PL Repo. Link (回覆)](https://docs.google.com/spreadsheets/d/1MFP_fD5V5f61EAR38BnwppYFtwBeRck3ZRFFGvWTfEc/edit#gid=206895428)
 > ## Week6
 >> * [R-atique](https://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
 >> * [regexr](https://regexr.com/)
