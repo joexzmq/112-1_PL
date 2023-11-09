@@ -45,6 +45,8 @@
 >> * [ConsolePlot](https://github.com/pascaln/ConsolePlot)
 >> * [https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb](https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb#topic=0&lambda=0.67&term=)
 >> * [正則化語法參考](https://blog.csdn.net/qq_28633249/article/details/77686976)
+>> * [文字雲範例](https://colab.research.google.com/drive/1rTlAko4i1daBFp4bQPy-Pgjo8_lQ_DO4?usp=sharing)
+>> * [LDA範例](https://colab.research.google.com/drive/1oOQ_s_b8A-WveY7VHSoa7cc1qlTZY4yD?usp=sharing)
 ## 作業連結區&#x1FAA7;
 > * [#作業一－HW1](https://github.com/joexzmq/112-1_PL/blob/main/1/HW1.ipynb)
 > * [#作業二－HW2](https://github.com/joexzmq/112-1_PL/blob/main/2/HW2.ipynb)
