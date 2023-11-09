@@ -23,6 +23,7 @@
 >> * [Day11 - Python 如何處理 JSON](https://ithelp.ithome.com.tw/articles/10220160)
 >> * [Dictionaries](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
 >> * [jsoncrack](https://jsoncrack.com/editor)
+>> * [程式語言 GitHub PL Repo. Link (回覆)](https://docs.google.com/spreadsheets/d/1MFP_fD5V5f61EAR38BnwppYFtwBeRck3ZRFFGvWTfEc/edit#gid=206895428)
 > ## Week6
 >> * [R-atique](https://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
 >> * [regexr](https://regexr.com/)
@@ -33,9 +34,25 @@
 > ## Week8
 >> * [資料彙整與資料視覺化](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)
 >> * [程式語言期末專題分組](https://docs.google.com/spreadsheets/d/1bv7opSXLVh6JsQoYODSlK24ccy1UMn6F3AcOFIRh58k/edit#gid=386118401)
+> ## Week9&10
+>> Python 文字資料視覺化工具參考
+>>> * [WordCloud](https://github.com/amueller/word_cloud)
+>>> * [TextBlob](https://github.com/sloria/TextBlob)
+>>> * [Voyant Tools](https://github.com/sgsinclair/VoyantServer)
+>>> * [Textify](https://github.com/mrdbourke/textify)
+>>> * [Termgraph](https://github.com/mkaz/termgraph)
+>>> * [Glances](https://github.com/nicolargo/glances)
+>>> * [ConsolePlot](https://github.com/pascaln/ConsolePlot)
+>> * [https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb](https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb#topic=0&lambda=0.67&term=)
+>> * [正則化語法參考](https://blog.csdn.net/qq_28633249/article/details/77686976)
+>> * [視覺化範例](https://colab.research.google.com/drive/160A8le6qatXCVNIB52jSKmheuKoVuO21?usp=sharing)
+>> * [文字雲範例](https://colab.research.google.com/drive/1rTlAko4i1daBFp4bQPy-Pgjo8_lQ_DO4?usp=sharing)
+>> * [LDA範例](https://colab.research.google.com/drive/1oOQ_s_b8A-WveY7VHSoa7cc1qlTZY4yD?usp=sharing)
 ## 作業連結區&#x1FAA7;
 > * [#作業一－HW1](https://github.com/joexzmq/112-1_PL/blob/main/1/HW1.ipynb)
 > * [#作業二－HW2](https://github.com/joexzmq/112-1_PL/blob/main/2/HW2.ipynb)
 > * [#作業三－HW3](https://github.com/joexzmq/112-1_PL/blob/main/3/HW3.ipynb)
 ## 專題連結區&#x1F4BB;
-> * 
+```
+專題
+```
