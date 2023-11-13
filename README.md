@@ -53,7 +53,7 @@
 > * [#作業二－HW2](https://github.com/joexzmq/112-1_PL/blob/main/2/HW2.ipynb)
 > * [#作業三－HW3](https://github.com/joexzmq/112-1_PL/blob/main/3/HW3.ipynb)
 > * [#作業四－HW4](https://github.com/joexzmq/112-1_PL/blob/main/4/HW4.ipynb)
-> * [#作業四－Medium]()
+> * [#作業四－Medium](https://medium.com/@a7833322010/%E6%95%99%E8%82%B2%E5%93%B2%E5%AD%B8-%E9%87%8D%E8%A6%81%E6%80%9D%E6%BD%AE-d47fb0cdc11f)
 ## 專題連結區&#x1F4BB;
 ```
 專題
