@@ -56,7 +56,7 @@
 > * [#作業四－HW4](https://github.com/joexzmq/112-1_PL/blob/main/4/HW4.ipynb)
 > * [#作業四－Medium](https://medium.com/@a7833322010/%E6%95%99%E8%82%B2%E5%93%B2%E5%AD%B8-%E9%87%8D%E8%A6%81%E6%80%9D%E6%BD%AE-d47fb0cdc11f)
 > * [#作業五－HW5](https://github.com/joexzmq/112-1_PL/blob/main/5/HW5.ipynb)
-> * [#作業五－Medium]()
+> * [#作業五－Medium](https://medium.com/@a7833322010/%E5%88%9D%E9%AB%94%E9%A9%97-%E7%94%A8textblob%E5%81%9A%E6%96%87%E6%9C%AC%E8%A9%9E%E5%BD%99%E7%9A%84%E8%A9%9E%E6%80%A7%E5%88%86%E6%9E%90-ca20280c4bc0)
 > * [#作業補充－LDA](https://github.com/joexzmq/112-1_PL/blob/main/5/LDA.ipynb)
 ## 專題連結區&#x1F4BB;
 ```
