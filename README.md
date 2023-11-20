@@ -48,12 +48,14 @@
 >> * [視覺化範例](https://colab.research.google.com/drive/160A8le6qatXCVNIB52jSKmheuKoVuO21?usp=sharing)
 >> * [文字雲範例](https://colab.research.google.com/drive/1rTlAko4i1daBFp4bQPy-Pgjo8_lQ_DO4?usp=sharing)
 >> * [LDA範例](https://colab.research.google.com/drive/1oOQ_s_b8A-WveY7VHSoa7cc1qlTZY4yD?usp=sharing)
+>> * [LDA範例影片](https://www.youtube.com/watch?v=AOkseAzwYK4)
 ## 作業連結區&#x1FAA7;
 > * [#作業一－HW1](https://github.com/joexzmq/112-1_PL/blob/main/1/HW1.ipynb)
 > * [#作業二－HW2](https://github.com/joexzmq/112-1_PL/blob/main/2/HW2.ipynb)
 > * [#作業三－HW3](https://github.com/joexzmq/112-1_PL/blob/main/3/HW3.ipynb)
 > * [#作業四－HW4](https://github.com/joexzmq/112-1_PL/blob/main/4/HW4.ipynb)
 > * [#作業四－Medium](https://medium.com/@a7833322010/%E6%95%99%E8%82%B2%E5%93%B2%E5%AD%B8-%E9%87%8D%E8%A6%81%E6%80%9D%E6%BD%AE-d47fb0cdc11f)
+> * [#作業補充－LDA](https://github.com/joexzmq/112-1_PL/blob/main/5/LDA.ipynb)
 ## 專題連結區&#x1F4BB;
 ```
 專題
