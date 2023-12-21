@@ -60,5 +60,5 @@
 > * [#作業補充－LDA](https://github.com/joexzmq/112-1_PL/blob/main/5/LDA.ipynb)
 ## 專題連結區&#x1F4BB;
 ```
-專題
+https://youtu.be/M3m47Trh3OI
 ```
